@@ -1,16 +1,22 @@
-## Hi there 👋
+Introducing Myself 👋
 
-<!--
-**Deanelle/deanelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Deanelle. Data scientist with expertise in data analysis and reporting,machine learning, database design and data modeling. 
 
-Here are some ideas to get you started:
+- Building machine learnign algorithms using python 
+- Querying data using SQL 
+- Developing dashboards on Tableau and Power BI
+- Data analysis and reporting using Google Sheets and Excel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects 
+
+View my projects here at my personal website. 
+
+Tools
+- Language: SQL, Python
+- Database: MySQL, PostgreSQL
+- Visualization: Tableau, Power BI 
+
+Connect with Me: 
+- Linkedin 
+- Hire me on Upwork
+  
