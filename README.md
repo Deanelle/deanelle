@@ -9,7 +9,7 @@ Hello, I'm Deanelle. Data scientist with expertise in data analysis and reportin
 
 Projects 
 
-View my projects here at my personal website. 
+View my projects here at my [personal website](https://deanellethompson.wixsite.com/my-site-1). 
 
 Tools
 - Language: SQL, Python
