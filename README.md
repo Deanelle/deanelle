@@ -18,5 +18,5 @@ Tools
 
 Connect with Me: 
 - [Linkedin](https://www.linkedin.com/in/deanelle-thompson/)
-- Hire me on Upwork
+- [Hire me on Upwork](https://www.upwork.com/freelancers/~017133a1954f954119)
   
