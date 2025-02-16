@@ -17,6 +17,6 @@ Tools
 - Visualization: Tableau, Power BI 
 
 Connect with Me: 
-- Linkedin[https://www.linkedin.com/in/deanelle-thompson/] 
+- [Linkedin https://www.linkedin.com/in/deanelle-thompson/] 
 - Hire me on Upwork
   
