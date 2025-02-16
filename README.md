@@ -1,6 +1,6 @@
 Introducing Myself 👋
 
-Hello, I'm Deanelle. Data scientist with expertise in data analysis and reporting,machine learning, database design and data modeling. 
+Hello, I'm Deanelle. Data scientist with expertise in data analysis and reporting, machine learning, database design and data modeling. 
 
 - Building machine learnign algorithms using python 
 - Querying data using SQL 
