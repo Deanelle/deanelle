@@ -47,13 +47,13 @@ This section contains a list of my completed projects and a brief description of
 
 - Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactionScores/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- Business Problem: 
+- Goal: To perform a comparative analysis of major hospital systems in Western North Carolina, identifying performance gaps and opportunities for clincial quality improvment. 
 
-- Description: 
+- Description: The dataset used for this project contains records of survey responses of patients' perspectives of hopsital care in 3 major hospital systems in Western North Carolina from 2025. This project includes the following steps: Data cleaning, Data Preprocessing, and Exploratory Data Analysis. 
 
 - Skills: 
 
-- Technology: 
+- Technology: Python( data cleaning),Tableau 
 
 
 3. Diabetes Hospitalization Dashboard
