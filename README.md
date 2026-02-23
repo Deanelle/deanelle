@@ -32,7 +32,7 @@ This section contains a list of my completed projects and a brief description of
 
 - Code: Queries for Immunizations
 
-- Business Problem: 
+- Goal: 
 
 - Description: 
 
@@ -62,11 +62,11 @@ This section contains a list of my completed projects and a brief description of
 
 - Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
-- Business Problem: 
+- Goal: 
 
 - Description: 
 
-- Skills: 
+- Skills: python(pandas, seaborn, matplotlib), tableau 
 
 - Technology: 
 
@@ -75,13 +75,13 @@ This section contains a list of my completed projects and a brief description of
 
 - Dashboard: Readmissions and Post Discharge Visits
 
-- Business Problem: 
+- Goal: Evalauing the impact of Transitional Care Management on 30 day readmission rates for high-risk geriatic populations,specifically the impact of having a post-discharge visit within 7 days of discharge. 
 
-- Description: 
+- Description: The dataset for this project contains recent hospitalizations, which includes data indictating if the hospitalization was followed by a readmission in the next 30 days.This project includes the following steps: calculating the percentage of initial hospitalizations where post-discharge visit was completed, the days between initial dischage and post discharge visit,percentage of readmissions with and without a post-discharge visit, creating pivot tables with this data per region and then creating a dhasboard with the key kpis. 
 
-- Skills: 
+- Skills: Dashboard, Pivot tables, fucntions: 
 
-- Technology: 
+- Technology: Microsoft Excel
 
 
 ## 📚 Education:  
