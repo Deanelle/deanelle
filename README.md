@@ -43,9 +43,9 @@ This section contains a list of my completed projects and a brief description of
 
 2. Patient Satisfaction  
 
-Code: [Hospital Consumer Assessment of Healthcare Providers and Systems Patient Satisfcation Data](https://colab.research.google.com/drive/1JOqioLaySIDmPNjdZ4Ud5REKKt3ZYH5Z?usp=sharing)
+- Code: [Hospital Consumer Assessment of Healthcare Providers and Systems Patient Satisfcation Data](https://colab.research.google.com/drive/1JOqioLaySIDmPNjdZ4Ud5REKKt3ZYH5Z?usp=sharing)
 
-Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactionScores/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactionScores/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Business Problem: 
 
@@ -58,9 +58,9 @@ Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactio
 
 3. Diabetes Hospitalization Dashboard
 
-Code: [Emergency Deparment Visit Rate Due to Diabetes in Maryland](https://colab.research.google.com/drive/1thu_05GeM3ii1QSzGHjjbR2v3vGxoAr9?usp=sharing)
+- Code: [Emergency Deparment Visit Rate Due to Diabetes in Maryland](https://colab.research.google.com/drive/1thu_05GeM3ii1QSzGHjjbR2v3vGxoAr9?usp=sharing)
 
-Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
+- Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
 - Business Problem: 
 
@@ -73,11 +73,11 @@ Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=
 
 4. Readmission Rate Analysis: 
 
-Dashboard: Readmissions and Post Discharge Visits
+- Dashboard: Readmissions and Post Discharge Visits
 
 - Business Problem: 
 
--Description: 
+- Description: 
 
 - Skills: 
 
