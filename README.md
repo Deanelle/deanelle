@@ -1,4 +1,7 @@
-##About
+
+## Deanelle Thompson- Data Analyst Portfolio 
+
+## About
 
 Hello, I'm Deanelle, a data analyst with 5+ years combined experience across healthcare, clnical operations, and patient workflows. I turn complex healthcare data into clean, actionable insights using SQL, Excel, Tableau, and Python.
 
@@ -9,27 +12,25 @@ My background spans across payers, providers, patient facing operations, giving 
 Feel free to explore! 
 
 
+## Contents
 
-Contents
+📚 [About](#about) 
+ 
+🔨 [Portfolio Projects](#portfolioprojects)
 
-📚:About  
-  
-🔨Portfolio Projects 
+📚 [Education](#education)
 
-📫Education
-
-📫Connect with Me
-
+📫 [Connect with Me](#connectwithme)
 
 
 
-🔨Portfolio Projects: 
+## 🔨Portfolio Projects: 
 
 This section contains a list of my completed projects and a brief description of each one: 
 
 SQL- Insight Sync 
 
-Code: 
+Code: Queries for Immunizations
 
 Business Problem: 
 
@@ -42,9 +43,9 @@ Technology:
 
 Patient Satisfaction  
 
-Code: 
+Code: [Hospital Consumer Assessment of Healthcare Providers and Systems Patient Satisfcation Data](https://colab.research.google.com/drive/1JOqioLaySIDmPNjdZ4Ud5REKKt3ZYH5Z?usp=sharing)
 
-Dashboard: 
+Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactionScores/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Business Problem: 
 
@@ -55,11 +56,11 @@ Skills:
 Technology: 
 
 
-Diabetes Hospitalization Dashboard: 
+Diabetes Hospitalization Dashboard
 
-Code: 
+Code: [Emergency Deparment Visit Rate Due to Diabetes in Maryland](https://colab.research.google.com/drive/1thu_05GeM3ii1QSzGHjjbR2v3vGxoAr9?usp=sharing)
 
-Dashboard: 
+Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
 Business Problem: 
 
@@ -72,7 +73,7 @@ Technology:
 
 Readmission Rate Analysis: 
 
-Dashboard: 
+Dashboard: Readmissions and Post Discharge Visits
 
 Business Problem: 
 
@@ -83,13 +84,13 @@ Skills:
 Technology: 
 
 
-📫Education:  
+## 📚 Education:  
 
 - University of Pittsburgh, PA- Masters of Health Informatics (Dec,2024) 
 - University of North Carolina, NC- Bachelors of Political Science and Spanish, Minor in Cognitive Science( 2018)
 
 
-📫Connect with Me: 
+## 📫 Connect with Me: 
 - [Linkedin](https://www.linkedin.com/in/deanelle-thompson/)
 
 
