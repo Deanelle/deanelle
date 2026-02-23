@@ -28,7 +28,7 @@ Feel free to explore!
 
 This section contains a list of my completed projects and a brief description of each one: 
 
-SQL- Insight Sync 
+1. SQL- Insight Sync 
 
 Code: Queries for Immunizations
 
@@ -41,7 +41,7 @@ Skills:
 Technology: 
 
 
-Patient Satisfaction  
+2. Patient Satisfaction  
 
 Code: [Hospital Consumer Assessment of Healthcare Providers and Systems Patient Satisfcation Data](https://colab.research.google.com/drive/1JOqioLaySIDmPNjdZ4Ud5REKKt3ZYH5Z?usp=sharing)
 
@@ -56,7 +56,7 @@ Skills:
 Technology: 
 
 
-Diabetes Hospitalization Dashboard
+3. Diabetes Hospitalization Dashboard
 
 Code: [Emergency Deparment Visit Rate Due to Diabetes in Maryland](https://colab.research.google.com/drive/1thu_05GeM3ii1QSzGHjjbR2v3vGxoAr9?usp=sharing)
 
@@ -71,7 +71,7 @@ Skills:
 Technology: 
 
 
-Readmission Rate Analysis: 
+4. Readmission Rate Analysis: 
 
 Dashboard: Readmissions and Post Discharge Visits
 
