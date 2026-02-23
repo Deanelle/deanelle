@@ -30,15 +30,15 @@ This section contains a list of my completed projects and a brief description of
 
 1. SQL- Insight Sync 
 
-Code: Queries for Immunizations
+- Code: Queries for Immunizations
 
-Business Problem: 
+- Business Problem: 
 
-Description: 
+- Description: 
 
-Skills: 
+- Skills: 
 
-Technology: 
+- Technology: 
 
 
 2. Patient Satisfaction  
@@ -47,13 +47,13 @@ Code: [Hospital Consumer Assessment of Healthcare Providers and Systems Patient 
 
 Dashboard: [Tableau](https://public.tableau.com/views/HospitalPatientSatisfactionScores/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Business Problem: 
+- Business Problem: 
 
-Description: 
+- Description: 
 
-Skills: 
+- Skills: 
 
-Technology: 
+- Technology: 
 
 
 3. Diabetes Hospitalization Dashboard
@@ -62,26 +62,26 @@ Code: [Emergency Deparment Visit Rate Due to Diabetes in Maryland](https://colab
 
 Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
-Business Problem: 
+- Business Problem: 
 
-Description: 
+- Description: 
 
-Skills: 
+- Skills: 
 
-Technology: 
+- Technology: 
 
 
 4. Readmission Rate Analysis: 
 
 Dashboard: Readmissions and Post Discharge Visits
 
-Business Problem: 
+- Business Problem: 
 
-Description: 
+-Description: 
 
-Skills: 
+- Skills: 
 
-Technology: 
+- Technology: 
 
 
 ## 📚 Education:  
