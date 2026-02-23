@@ -1,4 +1,4 @@
-About
+##About
 
 Hello, I'm Deanelle, a data analyst with 5+ years combined experience across healthcare, clnical operations, and patient workflows. I turn complex healthcare data into clean, actionable insights using SQL, Excel, Tableau, and Python.
 
