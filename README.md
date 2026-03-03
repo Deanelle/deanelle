@@ -73,7 +73,7 @@ This section contains a list of my completed projects and a brief description of
 
 4. Readmission Rate Analysis: 
 
-- Dashboard: Readmissions and Post Discharge Visits
+- Dashboard: [Readmissions and Post Discharge Visits](https://github.com/Deanelle/deanelle/blob/main/Readmissions_Dashboard.xlsx)
 
 - Goal: Evalauing the impact of Transitional Care Management on 30 day readmission rates for high-risk geriatic populations,specifically the impact of having a post-discharge visit within 7 days of discharge. 
 
