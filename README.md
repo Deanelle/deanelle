@@ -7,7 +7,7 @@ Hello, I'm Deanelle, a data analyst with 5+ years combined experience across hea
 
 I focus on soluitons that drive clairty and better heathcare decison making by turning messy data into something that teams can actually use. My gola is to empower teams with the tools they need- whether through intuitive reports or data products- to make informed decisions that improve paitent outcomes and healthcare operations. 
 
-My background spans across payers, providers, patient facing operations, giving me a unique view of the healthcare ecosystem- EHRS, claims, prior authorizatiosn, clicnial workflows and everything in between. 
+My background spans across payers, providers, patient facing operations, giving me a unique view of the healthcare ecosystem- EHRS, claims, prior authorizations, clicnial workflows and everything in between. 
 
 Feel free to explore! 
 
