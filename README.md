@@ -32,13 +32,13 @@ This section contains a list of my completed projects and a brief description of
 
 - Code: Queries for Immunizations
 
-- Goal: 
+- Goal: To identify trends in inlfuenza vaccinations in North Carolina by county, to support population health teams with targeted interventions for low coverage demographics. 
 
-- Description: 
+- Description: The dataset in this project 
 
 - Skills: 
 
-- Technology: 
+- Technology: Python( for data cleaning), SQL( for queries), Tableau.  
 
 
 2. Patient Satisfaction  
@@ -53,7 +53,7 @@ This section contains a list of my completed projects and a brief description of
 
 - Skills: 
 
-- Technology: Python( data cleaning),Tableau 
+- Technology: Python(data cleaning),Tableau 
 
 
 3. Diabetes Hospitalization Dashboard
@@ -62,13 +62,14 @@ This section contains a list of my completed projects and a brief description of
 
 - Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
-- Goal: 
+- Goal: To visaualize geographic and demogrpahic disparities in Maryland to identify areas in need of community interventions such as access to more diabetes eductors or improvement for social determinants of health to reduce preventabe hospitalizations. 
 
-- Description: 
+- Description: The dataset used for this project
 
-- Skills: python(pandas, seaborn, matplotlib), tableau 
+- Skills: Data cleaning and maniuplation in pandas, dashboard in Tableau
 
-- Technology: 
+- Technology: python(pandas, seaborn, matplotlib), Tableau 
+
 
 
 4. Readmission Rate Analysis: 
@@ -82,8 +83,6 @@ This section contains a list of my completed projects and a brief description of
 - Skills: Dashboard, Pivot tables, fucntions: 
 
 - Technology: Microsoft Excel
-
-  
 
 
 ## 📚 Education:  
