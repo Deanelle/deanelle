@@ -32,11 +32,11 @@ This section contains a list of my completed projects and a brief description of
 
 - Code: Queries for Immunizations
 
-- Goal: To identify trends in inlfuenza vaccinations in North Carolina by county, to support population health teams with targeted interventions for low coverage demographics. 
+- Goal: To analyze county-level inflenza vaccinsation trends in North Carolina, identifying geographic and demographic disparities. This project provides population health tesms with actionable insights needed to design targeted outreach and increase immmunization coverage in high-risk communities. 
 
-- Description: The dataset in this project 
+- Description: The dataset in this project comes from the Behavioral Risk Factor Surveillance System and the North Carolina Immunization Registry from 2022-2025. This project includes the following steps: data cleaning in python, running queries in SQL, and visualation in with a dashboard in Tableau. 
 
-- Skills: 
+- Skills: Data cleaning and manipulation in pandas, Queries in SQL, dashbaord in tableau. 
 
 - Technology: Python( for data cleaning), SQL( for queries), Tableau.  
 
@@ -49,9 +49,9 @@ This section contains a list of my completed projects and a brief description of
 
 - Goal: To perform a comparative analysis of major hospital systems in Western North Carolina, identifying performance gaps and opportunities for clincial quality improvment. 
 
-- Description: The dataset used for this project contains records of survey responses of patients' perspectives of hopsital care in 3 major hospital systems in Western North Carolina from 2025. This project includes the following steps: Data cleaning, Data Preprocessing, and Exploratory Data Analysis. 
+- Description: The dataset used for this project contains records of survey responses of patients' perspectives of hopsital care in 3 major hospital systems in [Western North Carolina from 2025](https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initiative/hcahps-patients-perspectives-care-survey). This project includes the following steps: Data cleaning, Data Preprocessing, and Exploratory Data Analysis. 
 
-- Skills: 
+- Skills: Data cleaning and manipulation in pandas, dashbaord in Tableau. 
 
 - Technology: Python(data cleaning),Tableau 
 
@@ -62,9 +62,9 @@ This section contains a list of my completed projects and a brief description of
 
 - Dashboard: [Tableau](https://public.tableau.com/shared/Z9JFH2WR9?:display_count=n&:origin=viz_share_link)
 
-- Goal: To visaualize geographic and demogrpahic disparities in Maryland to identify areas in need of community interventions such as access to more diabetes eductors or improvement for social determinants of health to reduce preventabe hospitalizations. 
+- Goal: To identify and visualize geographic and demographic disparities across Maryland, pinpointing high-need areas for targeted community interventions in  order to reduce preventabe hospitalizations. 
 
-- Description: The dataset used for this project
+- Description: The dataset used for this project contains records from the State of Maryland's emergency department visits for diabetes per 100,000 population from 2008-2017. This project includes the following steps: data cleaning, data preprocessing, exploratory data analysis in python and an interactive dashboard. 
 
 - Skills: Data cleaning and maniuplation in pandas, dashboard in Tableau
 
@@ -80,7 +80,7 @@ This section contains a list of my completed projects and a brief description of
 
 - Description: The dataset for this project contains recent hospitalizations, which includes data indictating if the hospitalization was followed by a readmission in the next 30 days.This project includes the following steps: calculating the percentage of initial hospitalizations where post-discharge visit was completed, the days between initial dischage and post discharge visit,percentage of readmissions with and without a post-discharge visit, creating pivot tables with this data per region and then creating a dhasboard with the key kpis. 
 
-- Skills: Dashboard, Pivot tables, fucntions: 
+- Skills: Dashboard, Pivot tables, fucntions: DATEDIF, COUNT, SUM, AVERAGE, COUNTA, and COUNTIFS. 
 
 - Technology: Microsoft Excel
 
