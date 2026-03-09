@@ -36,9 +36,9 @@ This section contains a list of my completed projects and a brief description of
 
 - Description: The dataset in this project comes from the Behavioral Risk Factor Surveillance System and the North Carolina Immunization Registry from 2022-2025. This project includes the following steps: data cleaning in python, running queries in SQL, and visualation in with a dashboard in Tableau. 
 
-- Skills: Data cleaning and manipulation in pandas, Queries in SQL, dashbaord in tableau. 
+- Skills: Data cleaning and manipulation in pandas,Joins,Aggregrate functions,Converting data types, CTEs, and dashbaord in tableau. 
 
-- Technology: Python( for data cleaning), SQL( for queries), Tableau.  
+- Technology: Python, MySQL, Tableau.  
 
 
 2. Patient Satisfaction  
