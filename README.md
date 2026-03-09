@@ -30,7 +30,7 @@ This section contains a list of my completed projects and a brief description of
 
 1. SQL- Insight Sync 
 
-- Code: Queries for Immunizations
+- Code: [Queries for Immunizations](https://github.com/Deanelle/deanelle/blob/main/SQL%20Queries)
 
 - Goal: To analyze county-level inflenza vaccinsation trends in North Carolina, identifying geographic and demographic disparities. This project provides population health tesms with actionable insights needed to design targeted outreach and increase immmunization coverage in high-risk communities. 
 
