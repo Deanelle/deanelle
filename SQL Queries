@@ -1,0 +1,85 @@
+#Queries used for Project 
+
+
+--Selecting the data from one of the tbales that we are going to be working with 
+SELECT * 
+FROM Immunization.`coverage_ vaccinations nc_2025`;
+
+
+-- Top Five Counties by Total Coverage for 2025 
+SELECT County, `Total Coverage`
+FROM `coverage_ vaccinations nc_2025`
+ORDER BY CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2)) DESC
+LIMIT 5;
+ 
+
+-- JOIN to view total coverage over the years( 2023-2025) 
+#JOINS without renaming columns
+SELECT 
+    t25.County, 
+    t25.`Total Coverage` AS Coverage_2025,
+    t24.`Total Coverage` AS Coverage_2024,
+    t23.`Total Coverage` AS Coverage_2023
+FROM `coverage_ vaccinations nc_2025` AS t25
+LEFT JOIN `coverage & vaccines 2024` AS t24 
+    ON t25.County = t24.County
+LEFT JOIN `2023 coverage & vaccines` AS t23 
+    ON t25.County = t23.County;
+
+-- Renaming my tables using the ALTER command to make it easier to write out 
+ALTER TABLE `coverage_ vaccinations nc_2025`
+RENAME TO flu_2025; 
+
+#2024 table 
+ALTER TABLE `coverage & vaccines 2024`
+RENAME TO flu_2024; 
+
+
+--JOIN with Renamed Columns 
+SELECT 
+    t25.County, 
+    t25.`Total Coverage` AS Cov_2025,
+    t24.`Total Coverage` AS Cov_2024,
+    t23.`Total Coverage` AS Cov_2023
+FROM flu_2025 t25
+LEFT JOIN flu_2024 t24 ON t25.County = t24.County
+LEFT JOIN flu_2023 t23 ON t25.County = t23.County;
+
+--Percent Difference between 2024 and 2025 
+SELECT t25.County, 
+t25.`Total Coverage` AS Cov_2025,
+t24.`Total Coverage` AS Cov_2024,
+CAST(REPLACE(t25.`Total Coverage`, '%', '') AS DECIMAL(5,2)) - 
+CAST(REPLACE(t24.`Total Coverage`, '%', '') AS DECIMAL(5,2)) AS Pct_Point_Change
+FROM flu_2025 t25
+LEFT JOIN flu_2024 t24 ON t25.County = t24.County
+ORDER BY Pct_Point_Change DESC;
+
+
+--How many flu shots have been given in 2025 so far? 
+SELECT 
+SUM(CAST(REPLACE(`Total Individuals Vaccinated`, ',', '') AS UNSIGNED)) AS Total_2025_Vaccinations
+FROM flu_2025;
+
+-- Least Five Counties by Total Coverage- 2025 
+SELECT County, `Total Coverage`
+FROM `flu_2025`
+ORDER BY CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2)) ASC
+LIMIT 5;
+
+--Counties with coverage less than 15% 
+SELECT County, `Total Coverage`
+FROM `flu_2025`
+WHERE Year = '2025-2026' 
+AND CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2)) < 15.00
+ORDER BY `Total Coverage`;
+
+#Average Coverage Across all Counties 
+SELECT '2025' AS Season, AVG(CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2))) AS Avg_Coverage
+FROM flu_2025
+UNION ALL
+SELECT '2024' AS Season, AVG(CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2))) AS Avg_Coverage
+FROM flu_2024
+UNION ALL
+SELECT '2023' AS Season, AVG(CAST(REPLACE(`Total Coverage`, '%', '') AS DECIMAL(5,2))) AS Avg_Coverage
+FROM flu_2023;
